@@ -1,7 +1,7 @@
 # Born2beRoot - Virtual Server and WordPress Implementation 🚀 
 [ Project Completion Date : 2021 - 12 - 06 ]
 
-## Project Overview
+## Project Overview 📋
 Born2beRoot documents my journey in crafting a secure virtual server, managed via VirtualBox or UTM. The challenge: setting up a WordPress website using PHP and lighttpd/MariaDB. This project showcases my prowess in Linux system administration, security, and web services. 💻🔒
 
 ## Core Configurations
@@ -16,6 +16,6 @@ Developed monitoring.sh, a bash script offering a snapshot of server health and 
 ## WordPress and Web Service Deployment
 Expanded server capabilities with a fully-functional WordPress website. lighttpd as the web server, MariaDB for database management, and PHP for dynamic content processing. Practical experience in web server setup, database connectivity, and PHP configuration. 🌐🚀
 
-## Learning Outcome
+## Project Conclusion 🎓
 This project is a testament to my ability to navigate server complexities, enforce security best practices, manage network services, and deploy a widely-used content management system. It's not just about foundational knowledge; it's a demonstration of executing a multifaceted server environment from scratch. 🛠️💡🌟
 
