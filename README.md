@@ -2,7 +2,7 @@
 [ Project Completion Date: 2021-12-06 ]
 
 ## Project Overview 📋
-Born2beRoot documents my journey in crafting a secure virtual server, managed via VirtualBox or UTM. The challenge: setting up a WordPress website using PHP and lighttpd/MariaDB. This project showcases my prowess in Linux system administration, security, and web services. 💻🔒
+Born2beRoot documents my journey in crafting a secure virtual server, managed via VirtualBox. The challenge: setting up a WordPress website using PHP and lighttpd/MariaDB. This project showcases my prowess in Linux system administration, security, and web services. 💻🔒
 
 ## Core Configurations 🛡️
 1. **Encrypted LVM:** Fortifying data security with encrypted partitions via Logical Volume Manager for enhanced flexibility. 🔐💽
